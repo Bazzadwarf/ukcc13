@@ -1163,7 +1163,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T18:00:01+01:00",
+      "Date": "2025-06-28T20:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1201,7 +1201,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T13:00:01+00:00",
+      "Date": "2025-06-29T11:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1220,7 +1220,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T14:00:01+00:00",
+      "Date": "2025-06-28T15:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1258,7 +1258,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-27T21:00:01+00:00",
+      "Date": "2025-06-27T22:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1427,7 +1427,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T17:00:01+01:00",
+      "Date": "2025-06-28T07:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1541,7 +1541,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T14:00:01+00:00",
+      "Date": "2025-06-28T15:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1617,7 +1617,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T17:00:01+01:00",
+      "Date": "2025-06-26T17:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1648,14 +1648,14 @@
     {
       "ID": 91,
       "Team1Acronym": "Stor",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "marz",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": true,
-      "Date": "2025-06-26T13:00:01+00:00",
+      "Date": "2025-06-26T19:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
