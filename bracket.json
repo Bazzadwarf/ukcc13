@@ -1201,7 +1201,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T17:00:01+01:00",
+      "Date": "2025-06-29T13:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1220,7 +1220,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T17:00:01+01:00",
+      "Date": "2025-06-28T14:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1258,7 +1258,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T20:00:01+01:00",
+      "Date": "2025-06-27T21:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1458,10 +1458,10 @@
     {
       "ID": 61,
       "Team1Acronym": "pols",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "LilR",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -1541,7 +1541,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T20:00:01+01:00",
+      "Date": "2025-06-28T14:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1597,7 +1597,7 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2025-06-26T19:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1654,8 +1654,8 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-28T15:00:01+01:00",
+      "Current": true,
+      "Date": "2025-06-26T13:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1717,6 +1717,7 @@
     },
     {
       "ID": 63,
+      "Team1Acronym": "LilR",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1729,6 +1730,7 @@
         "X": 600,
         "Y": 3780
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
