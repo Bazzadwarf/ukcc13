@@ -1163,7 +1163,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T20:00:01+00:00",
+      "Date": "2025-06-28T21:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1182,7 +1182,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T19:00:01+01:00",
+      "Date": "2025-06-28T16:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1201,7 +1201,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T11:00:01+00:00",
+      "Date": "2025-06-28T10:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1427,7 +1427,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T07:00:01+00:00",
+      "Date": "2025-06-28T08:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1591,12 +1591,68 @@
     {
       "ID": 83,
       "Team1Acronym": "Teej",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "meta",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4500092
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 568565
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4942001
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 1580728
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2270749
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2587640
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3322445
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2137969
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2442117
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3660762
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3263097
+        }
+      ],
       "Current": false,
       "Date": "2025-06-26T19:00:01+01:00",
       "ConditionalMatches": [],
@@ -1604,26 +1660,80 @@
         "X": 400,
         "Y": 4430
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 85,
       "Team1Acronym": "vonn",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "Silv",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3660762
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4500092
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4942001
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2587640
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1006822
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2442117
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1559974
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3322445
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4847096
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3263097
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2137969
+        }
+      ],
       "Current": false,
-      "Date": "2025-06-26T17:00:01+00:00",
+      "Date": "2025-06-26T18:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
         "Y": 4530
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1648,20 +1758,80 @@
     {
       "ID": 91,
       "Team1Acronym": "Stor",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "marz",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": true,
-      "Date": "2025-06-26T19:00:01+00:00",
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 568565
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3660762
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2587640
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4942001
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4500092
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4847096
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1580728
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1559974
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2442117
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2137969
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3263097
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1006822
+        }
+      ],
+      "Current": false,
+      "Date": "2025-06-26T20:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
         "Y": 4730
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1673,8 +1843,8 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-28T19:00:01+01:00",
+      "Current": true,
+      "Date": "2025-06-26T22:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1768,6 +1938,7 @@
     {
       "ID": 81,
       "Team1Score": null,
+      "Team2Acronym": "Teej",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -1783,6 +1954,7 @@
     },
     {
       "ID": 87,
+      "Team1Acronym": "vonn",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1795,10 +1967,12 @@
         "X": 600,
         "Y": 4580
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 93,
+      "Team1Acronym": "Stor",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1811,6 +1985,7 @@
         "X": 600,
         "Y": 4780
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
