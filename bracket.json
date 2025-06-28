@@ -1144,7 +1144,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T16:00:01+01:00",
+      "Date": "2025-06-29T17:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1156,20 +1156,19 @@
     {
       "ID": 15,
       "Team1Acronym": "skia",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "NeoP",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T21:00:01+01:00",
+      "Date": "2025-06-28T00:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
         "Y": 950
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1182,7 +1181,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T16:00:01+00:00",
+      "Date": "2025-06-28T17:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1194,14 +1193,14 @@
     {
       "ID": 28,
       "Team1Acronym": "rudj",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "rbk",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2025-06-28T10:00:01+00:00",
+      "Current": true,
+      "Date": "2025-06-28T11:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1220,7 +1219,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T15:00:01+01:00",
+      "Date": "2025-06-28T18:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1251,10 +1250,10 @@
     {
       "ID": 46,
       "Team1Acronym": "syno",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "velc",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -1264,7 +1263,6 @@
         "X": 400,
         "Y": 2950
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1285,6 +1283,7 @@
     },
     {
       "ID": 18,
+      "Team1Acronym": "skia",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1297,6 +1296,7 @@
         "X": 640,
         "Y": 1150
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -1318,6 +1318,7 @@
     {
       "ID": 43,
       "Team1Score": null,
+      "Team2Acronym": "syno",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -1408,7 +1409,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T18:00:01+01:00",
+      "Date": "2025-06-28T17:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1420,14 +1421,14 @@
     {
       "ID": 55,
       "Team1Acronym": "M a ",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "[Ava",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T08:00:01+01:00",
+      "Date": "2025-06-28T00:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1465,7 +1466,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T20:00:01+01:00",
+      "Date": "2025-06-28T00:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1477,20 +1478,19 @@
     {
       "ID": 65,
       "Team1Acronym": "Hums",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "N i ",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T14:00:01+01:00",
+      "Date": "2025-06-28T00:00:01+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
         "Y": 3830
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1837,20 +1837,19 @@
     {
       "ID": 94,
       "Team1Acronym": "Sham",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "Ush",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
-      "Date": "2025-06-26T22:00:01+00:00",
+      "Current": false,
+      "Date": "2025-06-26T23:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
         "Y": 4830
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1871,6 +1870,7 @@
     },
     {
       "ID": 57,
+      "Team1Acronym": "[Ava",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1883,12 +1883,14 @@
         "X": 600,
         "Y": 3580
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 63,
       "Team1Acronym": "LilR",
       "Team1Score": null,
+      "Team2Acronym": "Hums",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -1974,6 +1976,7 @@
       "ID": 93,
       "Team1Acronym": "Stor",
       "Team1Score": null,
+      "Team2Acronym": "Sham",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2006,6 +2009,7 @@
     },
     {
       "ID": 74,
+      "Team1Acronym": "velc",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2018,6 +2022,7 @@
         "X": 800,
         "Y": 4150
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -2038,6 +2043,7 @@
     },
     {
       "ID": 56,
+      "Team1Acronym": "NeoP",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2050,6 +2056,7 @@
         "X": 800,
         "Y": 3550
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -3710,7 +3717,7 @@
       "BestOf": 11,
       "BanCount": 2,
       "Beatmaps": [],
-      "StartDate": "2023-10-20T06:46:55.3873184+01:00",
+      "StartDate": "2025-07-05T00:00:00+00:00",
       "Matches": [
         6,
         18,
@@ -3736,7 +3743,7 @@
       "BestOf": 11,
       "BanCount": 2,
       "Beatmaps": [],
-      "StartDate": "2023-10-20T06:46:55.8415552+01:00",
+      "StartDate": "2025-07-12T00:00:00+00:00",
       "Matches": [
         12,
         37,
@@ -3754,7 +3761,7 @@
       "BestOf": 13,
       "BanCount": 2,
       "Beatmaps": [],
-      "StartDate": "2023-10-20T06:46:56.298748+01:00",
+      "StartDate": "2025-07-19T00:00:00+00:00",
       "Matches": [
         25,
         58,
@@ -3768,7 +3775,7 @@
       "BestOf": 13,
       "BanCount": 2,
       "Beatmaps": [],
-      "StartDate": "2023-10-20T09:08:33.2381684+01:00",
+      "StartDate": "2025-07-26T00:00:00+00:00",
       "Matches": [
         24,
         68
