@@ -1144,7 +1144,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T17:00:01+00:00",
+      "Date": "2025-06-29T18:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1163,7 +1163,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T00:00:01+00:00",
+      "Date": "2025-06-28T01:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1193,20 +1193,65 @@
     {
       "ID": 28,
       "Team1Acronym": "rudj",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "rbk",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4942001
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4500092
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2442117
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 568565
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1006822
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2587640
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2270749
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3263097
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3322445
+        }
+      ],
+      "Current": false,
       "Date": "2025-06-28T11:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
         "Y": 1750
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1219,7 +1264,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T18:00:01+00:00",
+      "Date": "2025-06-28T19:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1273,7 +1318,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T07:03:47.9706912+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1290,7 +1335,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T07:03:51.4317043+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1301,18 +1346,20 @@
     },
     {
       "ID": 31,
+      "Team1Acronym": "rudj",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T07:03:55.0148727+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
         "Y": 1940
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -1324,7 +1371,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T07:03:58.9765865+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1340,7 +1387,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T07:17:53.4075057+01:00",
+      "Date": "2025-07-12T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 960,
@@ -1356,7 +1403,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T07:18:07.983638+01:00",
+      "Date": "2025-07-12T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 960,
@@ -1372,7 +1419,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T07:19:03.461826+01:00",
+      "Date": "2025-07-19T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1454,
@@ -1409,7 +1456,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T17:00:01+00:00",
+      "Date": "2025-06-28T18:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1428,7 +1475,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T00:00:01+00:00",
+      "Date": "2025-06-28T01:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1466,7 +1513,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T00:00:01+00:00",
+      "Date": "2025-06-28T01:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1485,7 +1532,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-28T00:00:01+00:00",
+      "Date": "2025-06-28T01:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -1521,7 +1568,7 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2025-06-28T13:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1999,7 +2046,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:53:40.0435719+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2016,7 +2063,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:53:46.3442195+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2033,7 +2080,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:54:18.9990535+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2050,7 +2097,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:54:52.6223389+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2067,7 +2114,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:55:30.1259921+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2083,7 +2130,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:56:08.6621603+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2099,7 +2146,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:56:23.8774603+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2109,18 +2156,20 @@
     },
     {
       "ID": 92,
+      "Team1Acronym": "rbk",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:56:39.9968029+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
         "Y": 4750
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -2131,7 +2180,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:57:24.6192757+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2147,7 +2196,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:57:41.9386727+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2163,7 +2212,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:58:11.5485921+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2179,7 +2228,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:58:30+01:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2195,7 +2244,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:59:07.7546141+01:00",
+      "Date": "2025-07-12T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1200,
@@ -2211,7 +2260,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:59:27.0499377+01:00",
+      "Date": "2025-07-12T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1200,
@@ -2227,7 +2276,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T08:59:44.4031909+01:00",
+      "Date": "2025-07-12T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1200,
@@ -2243,7 +2292,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T09:00:04.5886175+01:00",
+      "Date": "2025-07-12T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1200,
@@ -2259,7 +2308,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T09:00:40.6939223+01:00",
+      "Date": "2025-07-12T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1490,
@@ -2275,7 +2324,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T09:00:53.6243415+01:00",
+      "Date": "2025-07-12T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1490,
@@ -2291,7 +2340,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T09:06:15.9344544+01:00",
+      "Date": "2025-07-19T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1690,
@@ -2307,7 +2356,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T09:06:38.1354208+01:00",
+      "Date": "2025-07-19T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1690,
@@ -2323,7 +2372,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T09:08:33.2381684+01:00",
+      "Date": "2025-07-19T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2010,
@@ -2339,7 +2388,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-20T23:47:55.8859378+01:00",
+      "Date": "2025-07-26T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2620,
@@ -2355,7 +2404,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2023-10-21T00:31:58.7217933+01:00",
+      "Date": "2025-07-26T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2210,
@@ -3717,7 +3766,7 @@
       "BestOf": 11,
       "BanCount": 2,
       "Beatmaps": [],
-      "StartDate": "2025-07-05T00:00:00+00:00",
+      "StartDate": "2025-07-05T01:00:00+01:00",
       "Matches": [
         6,
         18,
@@ -3743,7 +3792,7 @@
       "BestOf": 11,
       "BanCount": 2,
       "Beatmaps": [],
-      "StartDate": "2025-07-12T00:00:00+00:00",
+      "StartDate": "2025-07-12T01:00:00+01:00",
       "Matches": [
         12,
         37,
@@ -3761,7 +3810,7 @@
       "BestOf": 13,
       "BanCount": 2,
       "Beatmaps": [],
-      "StartDate": "2025-07-19T00:00:00+00:00",
+      "StartDate": "2025-07-19T01:00:00+01:00",
       "Matches": [
         25,
         58,
@@ -3775,7 +3824,7 @@
       "BestOf": 13,
       "BanCount": 2,
       "Beatmaps": [],
-      "StartDate": "2025-07-26T00:00:00+00:00",
+      "StartDate": "2025-07-26T01:00:00+01:00",
       "Matches": [
         24,
         68
