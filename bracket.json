@@ -2342,7 +2342,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T14:30:01+00:00",
+      "Date": "2025-06-29T15:30:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 400,
@@ -2380,7 +2380,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T16:00:01+01:00",
+      "Date": "2025-06-30T19:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
@@ -2455,7 +2455,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-06-29T14:00:01+00:00",
+      "Date": "2025-06-29T15:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
@@ -2467,14 +2467,14 @@
     {
       "ID": 87,
       "Team1Acronym": "vonn",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "Doom",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": true,
-      "Date": "2025-06-29T13:00:01+00:00",
+      "Date": "2025-06-29T14:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
