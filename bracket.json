@@ -1187,10 +1187,10 @@
     {
       "ID": 9,
       "Team1Acronym": "maTT",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "lyst",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -1200,7 +1200,6 @@
         "X": 400,
         "Y": 550
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1534,13 +1533,14 @@
     {
       "ID": 6,
       "Team1Acronym": "Bubb",
-      "Team1Score": null,
-      "Team2Score": null,
+      "Team1Score": 0,
+      "Team2Acronym": "maTT",
+      "Team2Score": 0,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-06T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1558,8 +1558,8 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Current": true,
+      "Date": "2025-07-06T17:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1578,7 +1578,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-06T20:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1597,7 +1597,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-06T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -2429,10 +2429,10 @@
     {
       "ID": 57,
       "Team1Acronym": "[Ava",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "Synd",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -2442,7 +2442,6 @@
         "X": 600,
         "Y": 3580
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -2466,10 +2465,10 @@
     {
       "ID": 71,
       "Team1Acronym": "skut",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "Fwuf",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -2485,10 +2484,10 @@
     {
       "ID": 75,
       "Team1Acronym": "Fros",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "gadr",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -2498,7 +2497,6 @@
         "X": 600,
         "Y": 4180
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -2606,13 +2604,39 @@
     {
       "ID": 93,
       "Team1Acronym": "Stor",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "Sham",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2587640
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 1559974
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2270749
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 568565
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4500092
+        }
+      ],
+      "Current": false,
       "Date": "2025-06-29T17:00:01+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2624,6 +2648,7 @@
     },
     {
       "ID": 62,
+      "Team1Acronym": "lyst",
       "Team1Score": null,
       "Team2Acronym": "LilR",
       "Team2Score": null,
@@ -2631,24 +2656,26 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-05T19:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
         "Y": 3760
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 74,
       "Team1Acronym": "velc",
       "Team1Score": null,
+      "Team2Acronym": "Fros",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-05T20:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2667,7 +2694,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-05T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2680,12 +2707,13 @@
       "ID": 56,
       "Team1Acronym": "NeoP",
       "Team1Score": null,
+      "Team2Acronym": "[Ava",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-05T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2698,12 +2726,13 @@
       "ID": 69,
       "Team1Acronym": "chee",
       "Team1Score": null,
+      "Team2Acronym": "Fwuf",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-05T17:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2722,7 +2751,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-05T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2741,7 +2770,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-05T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2754,12 +2783,13 @@
       "ID": 92,
       "Team1Acronym": "rbk",
       "Team1Score": null,
+      "Team2Acronym": "Sham",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-05T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2776,7 +2806,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-06T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2792,7 +2822,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-06T19:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2808,7 +2838,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-06T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2824,7 +2854,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T01:00:00+01:00",
+      "Date": "2025-07-06T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -4357,11 +4387,809 @@
       ]
     },
     {
-      "Name": "Quarterfinals",
+      "Name": "Quarter Finals",
       "Description": "",
       "BestOf": 11,
       "BanCount": 2,
-      "Beatmaps": [],
+      "Beatmaps": [
+        {
+          "ID": 4457389,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 4457389,
+            "DifficultyName": "Everything is Our World!",
+            "BPM": 230.0,
+            "Length": 248000.0,
+            "StarRating": 7.12,
+            "EndTimeObjectCount": 368,
+            "TotalObjectCount": 1380,
+            "Metadata": {
+              "Title": "Trust Nothing but Love",
+              "title_unicode": "愛よりたしかなものなんてない",
+              "Artist": "HARU NEMURI",
+              "artist_unicode": "春ねむり",
+              "Author": {
+                "OnlineID": 14204590,
+                "Username": "nemidnight",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 4.6,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.5,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2121310/covers/cover@2x.jpg?1708583449",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2121310/covers/card@2x.jpg?1708583449",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2121310/covers/list@2x.jpg?1708583449"
+            }
+          }
+        },
+        {
+          "ID": 5135368,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 5135368,
+            "DifficultyName": "On This Planet...",
+            "BPM": 180.0,
+            "Length": 221000.0,
+            "StarRating": 7.05,
+            "EndTimeObjectCount": 417,
+            "TotalObjectCount": 1833,
+            "Metadata": {
+              "Title": "Kono Hoshi de.... [Mega Mix] (20th Anniversary Remake)",
+              "title_unicode": "この星で・・・。 (20周年記念リメイク版)",
+              "Artist": "Camellia",
+              "artist_unicode": "かめりあ",
+              "Author": {
+                "OnlineID": 3481378,
+                "Username": "Doomsday is Bad",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "ゆめにっき remake for yume nikki 20th anniversary instrumental electronic あぬ anu vgm video game",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 3.5,
+              "CircleSize": 3.8,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2377069/covers/cover@2x.jpg?1751158270",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2377069/covers/card@2x.jpg?1751158270",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2377069/covers/list@2x.jpg?1751158270"
+            }
+          }
+        },
+        {
+          "ID": 4759466,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 4759466,
+            "DifficultyName": "Small Kappa",
+            "BPM": 145.0,
+            "Length": 278000.0,
+            "StarRating": 6.21,
+            "EndTimeObjectCount": 626,
+            "TotalObjectCount": 1601,
+            "Metadata": {
+              "Title": "Gensou Kappa Koushinkyoku feat. ytr",
+              "title_unicode": "幻想河童行進曲 feat. ｙｔｒ",
+              "Artist": "TAMAONSEN",
+              "artist_unicode": "魂音泉",
+              "Author": {
+                "OnlineID": 6895187,
+                "Username": "Suicune3",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方風神録　～ Mountain of Faith.",
+              "tags": "video game hip hop japanese rap electronic touhou 2hu 東方project zun team shanghai alice th10 fuujinroku mof illusory kappa march 神々が恋した幻想郷 the gensokyo the gods loved stage 3 芥川龍之介の河童　～ candid friend akutagawa ryuunosukes kappa 河城 にとり kawashiro nitori coro soul flower comiket 86 c86",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 6.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2239541/covers/cover@2x.jpg?1726871237",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2239541/covers/card@2x.jpg?1726871237",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2239541/covers/list@2x.jpg?1726871237"
+            }
+          }
+        },
+        {
+          "ID": 3828589,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3828589,
+            "DifficultyName": "Pino's Vindicated (#1)",
+            "BPM": 174.0,
+            "Length": 143000.0,
+            "StarRating": 6.5,
+            "EndTimeObjectCount": 307,
+            "TotalObjectCount": 692,
+            "Metadata": {
+              "Title": "Vindication",
+              "title_unicode": "Vindication",
+              "Artist": "Laur",
+              "artist_unicode": "Laur",
+              "Author": {
+                "OnlineID": 8846632,
+                "Username": "Sunazuka Akira",
+                "CountryString": "Unknown"
+              },
+              "Source": "Arcaea",
+              "tags": "pdc2021 pdc 2021 pending cup mapping contest instrumental track adverse prelude dubstep piano violin artcore orchestral video game electronic lowiro -[pino]- yf_bmp cubby cubbby dailycare morinaga -magic- syodou mystycute mysty",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.2,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 8.4,
+              "ApproachRate": 9.6,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1580043/covers/cover@2x.jpg?1696728871",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1580043/covers/card@2x.jpg?1696728871",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1580043/covers/list@2x.jpg?1696728871"
+            }
+          }
+        },
+        {
+          "ID": 3180896,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3180896,
+            "DifficultyName": "The Map",
+            "BPM": 251.0,
+            "Length": 184000.0,
+            "StarRating": 7.24,
+            "EndTimeObjectCount": 223,
+            "TotalObjectCount": 1080,
+            "Metadata": {
+              "Title": "The Rain",
+              "title_unicode": "The Rain",
+              "Artist": "Brymir",
+              "artist_unicode": "Brymir",
+              "Author": {
+                "OnlineID": 8953955,
+                "Username": "Zelq",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "nm5 sf anzt 8 semifinals metal english cd dn cookie",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.7,
+              "CircleSize": 3.4,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1557052/covers/cover@2x.jpg?1632067265",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1557052/covers/card@2x.jpg?1632067265",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1557052/covers/list@2x.jpg?1632067265"
+            }
+          }
+        },
+        {
+          "ID": 3678648,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3678648,
+            "DifficultyName": "yf's Extra",
+            "BPM": 115.0,
+            "Length": 116000.0,
+            "StarRating": 5.31,
+            "EndTimeObjectCount": 192,
+            "TotalObjectCount": 425,
+            "Metadata": {
+              "Title": "Dokuzu",
+              "title_unicode": "ド屑",
+              "Artist": "NAKISO",
+              "artist_unicode": "なきそ",
+              "Author": {
+                "OnlineID": 7777875,
+                "Username": "Ryuusei Aika",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "cami mononymous mono astrolis kuyusu yf_bmp japanese electronic pop j-pop jpop vocaloid ボーカロイド ボカロ kaai yuki 歌愛ユキ 鮫島ぬりえ scum of the earth",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 4.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 7.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1790301/covers/cover@2x.jpg?1667055444",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1790301/covers/card@2x.jpg?1667055444",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1790301/covers/list@2x.jpg?1667055444"
+            }
+          }
+        },
+        {
+          "ID": 2348869,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 2348869,
+            "DifficultyName": "Don't Look Back",
+            "BPM": 195.0,
+            "Length": 229000.0,
+            "StarRating": 6.84,
+            "EndTimeObjectCount": 290,
+            "TotalObjectCount": 1016,
+            "Metadata": {
+              "Title": "Trance Dance Anarchy",
+              "title_unicode": "トランスダンスアナーキー",
+              "Artist": "Akatsuki Records",
+              "artist_unicode": "暁Records",
+              "Author": {
+                "OnlineID": 3388410,
+                "Username": "eiri-",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方天空璋　～ Hidden Star in Four Seasons.",
+              "tags": "ayyri trynna irohas mugiwarasekai alexsander door weapon door_weapon xiced djulus smokelind anarcky japanese video game pop metamorphosis comiket 93 c93 hsifs tenkuushou heavenly jade dipper th16 th 16 touhou 東方project team shanghai alice zun stack クレイジーバックダンサーズ crazy backup dancers satono nishida 爾子田 里乃 mai teireida 丁礼田 舞",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1124084/covers/cover@2x.jpg?1650695567",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1124084/covers/card@2x.jpg?1650695567",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1124084/covers/list@2x.jpg?1650695567"
+            }
+          }
+        },
+        {
+          "ID": 5128505,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 5128505,
+            "DifficultyName": "ar8",
+            "BPM": 175.0,
+            "Length": 214000.0,
+            "StarRating": 5.83,
+            "EndTimeObjectCount": 223,
+            "TotalObjectCount": 915,
+            "Metadata": {
+              "Title": "Machine Love",
+              "title_unicode": "Machine Love",
+              "Artist": "Jamie Paige",
+              "artist_unicode": "Jamie Paige",
+              "Author": {
+                "OnlineID": 10909373,
+                "Username": "vetoed",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "ixcors lga2025 w1 hd2 lazer grand arena",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 4.0,
+              "CircleSize": 4.3,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2369573/covers/cover@2x.jpg?1750224615",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2369573/covers/card@2x.jpg?1750224615",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2369573/covers/list@2x.jpg?1750224615"
+            }
+          }
+        },
+        {
+          "ID": 3033108,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 3033108,
+            "DifficultyName": "FUNKY FRESH BEATS",
+            "BPM": 142.0,
+            "Length": 202000.0,
+            "StarRating": 6.13,
+            "EndTimeObjectCount": 532,
+            "TotalObjectCount": 1148,
+            "Metadata": {
+              "Title": "AIN'T NOTHIN' LIKE A FUNKY BEAT",
+              "title_unicode": "AIN'T NOTHIN' LIKE A FUNKY BEAT",
+              "Artist": "Hideki Naganuma",
+              "artist_unicode": "Hideki Naganuma",
+              "Author": {
+                "OnlineID": 2439822,
+                "Username": "Rtyzen",
+                "CountryString": "Unknown"
+              },
+              "Source": "Lethal League Blaze",
+              "tags": "banger bonanza ro16 round of 16 b9 nf alt 長沼英樹 skankfunk english bgm background music video game ost original soundtrack team reptile 2step big beat edm electronic dance digital rock eurobeat funk hip hop house rap techno",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 9.3,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1478436/covers/cover@2x.jpg?1732617550",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1478436/covers/card@2x.jpg?1732617550",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1478436/covers/list@2x.jpg?1732617550"
+            }
+          }
+        },
+        {
+          "ID": 3765142,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 3765142,
+            "DifficultyName": "sweet",
+            "BPM": 170.0,
+            "Length": 180000.0,
+            "StarRating": 6.28,
+            "EndTimeObjectCount": 380,
+            "TotalObjectCount": 786,
+            "Metadata": {
+              "Title": "macaron moon",
+              "title_unicode": "macaron moon",
+              "Artist": "YUC'e",
+              "artist_unicode": "YUC'e",
+              "Author": {
+                "OnlineID": 7326908,
+                "Username": "Amateurre",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "ゆーしえ future bass electronic japanese shiwakaze nathan sukinathan shizuku ayesha altugle kazato asa shikibe mayu jiysea asagi lecandy onegai kowari kristalyze tony t_ony fa featured artist mappers' guild mpg",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.8,
+              "ApproachRate": 9.2,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1834016/covers/cover@2x.jpg?1710985176",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1834016/covers/card@2x.jpg?1710985176",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1834016/covers/list@2x.jpg?1710985176"
+            }
+          }
+        },
+        {
+          "ID": 1793422,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 1793422,
+            "DifficultyName": "Extra",
+            "BPM": 105.0,
+            "Length": 214000.0,
+            "StarRating": 6.53,
+            "EndTimeObjectCount": 471,
+            "TotalObjectCount": 1120,
+            "Metadata": {
+              "Title": "Saisaki",
+              "title_unicode": "サイサキ",
+              "Artist": "Reol",
+              "artist_unicode": "Reol",
+              "Author": {
+                "OnlineID": 835998,
+                "Username": "cRyo[iceeicee]",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "anishina kodoku loreley gaia jijitsujou gigap ギガp reworu れをる 事実上",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/858075/covers/cover@2x.jpg?1650670340",
+              "card@2x": "https://assets.ppy.sh/beatmaps/858075/covers/card@2x.jpg?1650670340",
+              "list@2x": "https://assets.ppy.sh/beatmaps/858075/covers/list@2x.jpg?1650670340"
+            }
+          }
+        },
+        {
+          "ID": 1588845,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 1588845,
+            "DifficultyName": "Firika's Expert (Winner!)",
+            "BPM": 165.0,
+            "Length": 115000.0,
+            "StarRating": 5.84,
+            "EndTimeObjectCount": 155,
+            "TotalObjectCount": 634,
+            "Metadata": {
+              "Title": "SAY BAY",
+              "title_unicode": "SAY BAY",
+              "Artist": "P*Light",
+              "artist_unicode": "P*Light",
+              "Author": {
+                "OnlineID": 1243669,
+                "Username": "yf_bmp",
+                "CountryString": "Unknown"
+              },
+              "Source": "beatmania IIDX 24 SINOBUZ",
+              "tags": "yorita yoshino otosaka-yu deadcode video game electronic instrumental newspaper cup #4 saybay shinobi rave taiyo konami bemani yamamoto kayano suzuki_1112 fanzhen0019 ametrin ffi how2miss yugu x light x_light firika pata-mon papapa213 -claris- oiso 1112deng ioexception",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 6.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.3,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/750316/covers/cover@2x.jpg?1650699927",
+              "card@2x": "https://assets.ppy.sh/beatmaps/750316/covers/card@2x.jpg?1650699927",
+              "list@2x": "https://assets.ppy.sh/beatmaps/750316/covers/list@2x.jpg?1650699927"
+            }
+          }
+        },
+        {
+          "ID": 4086626,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 4086626,
+            "DifficultyName": "EXTRA",
+            "BPM": 100.0,
+            "Length": 144000.0,
+            "StarRating": 5.41,
+            "EndTimeObjectCount": 189,
+            "TotalObjectCount": 578,
+            "Metadata": {
+              "Title": "NULCTRL",
+              "title_unicode": "NULCTRL",
+              "Artist": "Silentroom",
+              "artist_unicode": "Silentroom",
+              "Author": {
+                "OnlineID": 4966334,
+                "Username": "DeviousPanda",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "arcaea mao null control seville film studio motion go back 2 your roots g2r2018 frenz2018 climax maimai でらっくす plus deluxe dx+ dx ex bms musync musynx english instrumental electronic memory waves featured artist fa mbc monthly beatmapping contest #8",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 4.0,
+              "CircleSize": 5.4,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1969316/covers/cover@2x.jpg?1681823471",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1969316/covers/card@2x.jpg?1681823471",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1969316/covers/list@2x.jpg?1681823471"
+            }
+          }
+        },
+        {
+          "ID": 1447689,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 1447689,
+            "DifficultyName": "Extra",
+            "BPM": 220.0,
+            "Length": 100000.0,
+            "StarRating": 6.43,
+            "EndTimeObjectCount": 326,
+            "TotalObjectCount": 599,
+            "Metadata": {
+              "Title": "Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion",
+              "title_unicode": "恋恋愛愛サーサーキュレーキュレーションション",
+              "Artist": "Sara",
+              "artist_unicode": "皿",
+              "Author": {
+                "OnlineID": 3178418,
+                "Username": "pishifat",
+                "CountryString": "Unknown"
+              },
+              "Source": "化物語",
+              "tags": "breakcore 千石撫子 sengoku nadeko 花澤 香菜 hanazawa kana bakemonogatari renai circulation 恋愛サーキュレーション",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/684060/covers/cover@2x.jpg?1622126850",
+              "card@2x": "https://assets.ppy.sh/beatmaps/684060/covers/card@2x.jpg?1622126850",
+              "list@2x": "https://assets.ppy.sh/beatmaps/684060/covers/list@2x.jpg?1622126850"
+            }
+          }
+        },
+        {
+          "ID": 1233793,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 1233793,
+            "DifficultyName": "Sorrow",
+            "BPM": 164.0,
+            "Length": 308000.0,
+            "StarRating": 5.18,
+            "EndTimeObjectCount": 438,
+            "TotalObjectCount": 1104,
+            "Metadata": {
+              "Title": "Hoshikuzu no Ring",
+              "title_unicode": "星屑のリング",
+              "Artist": "Imai Asami",
+              "artist_unicode": "今井麻美",
+              "Author": {
+                "OnlineID": 3376777,
+                "Username": "Kalibe",
+                "CountryString": "Unknown"
+              },
+              "Source": "コープスパーティー Tortured Souls -暴虐された魂の呪叫-",
+              "tags": "corpse party op opening ova full version",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/583052/covers/cover@2x.jpg?1622116157",
+              "card@2x": "https://assets.ppy.sh/beatmaps/583052/covers/card@2x.jpg?1622116157",
+              "list@2x": "https://assets.ppy.sh/beatmaps/583052/covers/list@2x.jpg?1622116157"
+            }
+          }
+        },
+        {
+          "ID": 4612513,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 4612513,
+            "DifficultyName": "Koishionic Dimension",
+            "BPM": 138.0,
+            "Length": 292000.0,
+            "StarRating": 4.48,
+            "TotalObjectCount": 2229,
+            "Metadata": {
+              "Title": "Dream War",
+              "title_unicode": "Dream War",
+              "Artist": "Masayoshi Minoshima feat. nomico",
+              "artist_unicode": "Masayoshi Minoshima feat. nomico",
+              "Author": {
+                "OnlineID": 9131844,
+                "Username": "Sanch-KK",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方夢時空　～ Pantasmagria of Dim.Dream",
+              "tags": "aye1337 228 electronic japanese 夢幻遊戯 alstroemeria records visionary game third ensemble noir zun team shanghai alice touhou yumejikuu pc-98 rikako asakura doujin arcd0033",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 4.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.3,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2103125/covers/cover@2x.jpg?1745514438",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2103125/covers/card@2x.jpg?1745514438",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2103125/covers/list@2x.jpg?1745514438"
+            }
+          }
+        },
+        {
+          "ID": 155438,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 155438,
+            "DifficultyName": "Mystica's Insane",
+            "BPM": 216.0,
+            "Length": 185000.0,
+            "StarRating": 5.06,
+            "EndTimeObjectCount": 307,
+            "TotalObjectCount": 571,
+            "Metadata": {
+              "Title": "Yuru Fuwa Jukai Girl",
+              "title_unicode": "Yuru Fuwa Jukai Girl",
+              "Artist": "Lon",
+              "artist_unicode": "Lon",
+              "Author": {
+                "OnlineID": 244216,
+                "Username": "Garven",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "dangaard hatsune miku thite star_stream mystica ishiburop tasha",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/49686/covers/cover@2x.jpg?1650612758",
+              "card@2x": "https://assets.ppy.sh/beatmaps/49686/covers/card@2x.jpg?1650612758",
+              "list@2x": "https://assets.ppy.sh/beatmaps/49686/covers/list@2x.jpg?1650612758"
+            }
+          }
+        },
+        {
+          "ID": 3642792,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 3642792,
+            "DifficultyName": "Selfish Desire",
+            "BPM": 125.0,
+            "Length": 384000.0,
+            "StarRating": 4.45,
+            "EndTimeObjectCount": 694,
+            "TotalObjectCount": 1532,
+            "Metadata": {
+              "Title": "Oznei Haman wa Mou Iranai",
+              "title_unicode": "オズネイ・ハマンはもういらない",
+              "Artist": "Shibayan feat. yana",
+              "artist_unicode": "Shibayan feat. yana",
+              "Author": {
+                "OnlineID": 10701418,
+                "Username": "itay",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方星蓮船　～ Undefined Fantastic Object.",
+              "tags": "shibayan records th12 ufo toragara no bishamonten 寅丸 星 虎柄の毘沙門天 the tiger-patterned tiger patterned vaisravana video game electronic yanaginagi touhou zun 東方project japanese shou toramaru chie fukami dream materialise musou materiaraizu midorijeon",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.7,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.3,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1778687/covers/cover@2x.jpg?1674237324",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1778687/covers/card@2x.jpg?1674237324",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1778687/covers/list@2x.jpg?1674237324"
+            }
+          }
+        },
+        {
+          "ID": 4490753,
+          "Mods": "",
+          "BeatmapInfo": {
+            "OnlineID": 4490753,
+            "DifficultyName": "Hope and Darkness",
+            "BPM": 185.0,
+            "Length": 367000.0,
+            "StarRating": 7.14,
+            "EndTimeObjectCount": 726,
+            "TotalObjectCount": 2001,
+            "Metadata": {
+              "Title": "Luyten's Star",
+              "title_unicode": "Luyten's Star",
+              "Artist": "Doomsday",
+              "artist_unicode": "Doomsday",
+              "Author": {
+                "OnlineID": 6693266,
+                "Username": "Tycani",
+                "CountryString": "Unknown"
+              },
+              "Source": "Battle of the Box 2024: Da Frengeon",
+              "tags": "fuiba fuyu type vey3est botb quarterfinals qf semifinals sf week 2 w2 tiebreaker tb custom song hatsune miku 初音ミク electronic japanese uk hardcore",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.9,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2134395/covers/cover@2x.jpg?1711245612",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2134395/covers/card@2x.jpg?1711245612",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2134395/covers/list@2x.jpg?1711245612"
+            }
+          }
+        }
+      ],
       "StartDate": "2025-07-05T01:00:00+01:00",
       "Matches": [
         6,
@@ -4383,7 +5211,7 @@
       ]
     },
     {
-      "Name": "Semifinals",
+      "Name": "Semi Finals",
       "Description": "",
       "BestOf": 11,
       "BanCount": 2,
