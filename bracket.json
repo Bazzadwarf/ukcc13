@@ -1533,14 +1533,14 @@
     {
       "ID": 6,
       "Team1Acronym": "Bubb",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "maTT",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-06T16:00:00+00:00",
+      "Date": "2025-07-05T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1552,20 +1552,80 @@
     {
       "ID": 18,
       "Team1Acronym": "skia",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Mahm",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": true,
-      "Date": "2025-07-06T17:00:00+00:00",
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 1447689
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5128505
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3765142
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 1233793
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4612513
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3678648
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3180896
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3033108
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 155438
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3828589
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1588845
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2348869
+        }
+      ],
+      "Current": false,
+      "Date": "2025-07-03T19:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
         "Y": 1150
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -1578,7 +1638,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-06T20:00:00+00:00",
+      "Date": "2025-07-06T21:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1597,7 +1657,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-06T18:00:00+00:00",
+      "Date": "2025-07-06T19:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1609,6 +1669,7 @@
     {
       "ID": 12,
       "Team1Score": null,
+      "Team2Acronym": "skia",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2655,8 +2716,8 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2025-07-05T19:00:00+00:00",
+      "Current": true,
+      "Date": "2025-07-04T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2675,7 +2736,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T20:00:00+00:00",
+      "Date": "2025-07-05T21:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2694,7 +2755,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T16:00:00+00:00",
+      "Date": "2025-07-05T17:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2713,7 +2774,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T15:00:00+00:00",
+      "Date": "2025-07-05T16:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2732,7 +2793,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T17:00:00+00:00",
+      "Date": "2025-07-05T18:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2751,7 +2812,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T13:00:00+00:00",
+      "Date": "2025-07-05T14:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2770,7 +2831,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T12:00:00+00:00",
+      "Date": "2025-07-05T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2789,7 +2850,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T16:00:00+00:00",
+      "Date": "2025-07-04T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2806,7 +2867,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-06T15:00:00+00:00",
+      "Date": "2025-07-06T16:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2822,7 +2883,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-06T19:00:00+00:00",
+      "Date": "2025-07-06T20:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2838,7 +2899,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-06T14:00:00+00:00",
+      "Date": "2025-07-06T15:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2854,7 +2915,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-06T13:00:00+00:00",
+      "Date": "2025-07-06T14:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
@@ -2912,6 +2973,7 @@
     },
     {
       "ID": 88,
+      "Team1Acronym": "Mahm",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2924,6 +2986,7 @@
         "X": 1200,
         "Y": 4620
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
