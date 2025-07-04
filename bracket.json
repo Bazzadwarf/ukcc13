@@ -1540,7 +1540,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T16:00:00+00:00",
+      "Date": "2025-07-05T17:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1642,7 +1642,7 @@
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
-        "Y": 1940
+        "Y": 1950
       },
       "WinnerColour": "Blue",
       "PointsToWin": 6
@@ -1650,14 +1650,80 @@
     {
       "ID": 43,
       "Team1Acronym": "Plas",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "syno",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 1588845
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3678648
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4457389
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4612513
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4759466
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5128505
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3033108
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3828589
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 155438
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3180896
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3765142
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1447689
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4086626
+        }
+      ],
       "Current": false,
-      "Date": "2025-07-06T19:00:00+01:00",
+      "Date": "2025-07-04T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1686,6 +1752,7 @@
     {
       "ID": 37,
       "Team1Score": null,
+      "Team2Acronym": "syno",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2710,20 +2777,19 @@
     {
       "ID": 62,
       "Team1Acronym": "lyst",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "LilR",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2025-07-04T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
         "Y": 3760
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -2811,7 +2877,7 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2025-07-05T14:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2831,7 +2897,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T15:00:00+00:00",
+      "Date": "2025-07-05T16:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2843,14 +2909,80 @@
     {
       "ID": 92,
       "Team1Acronym": "rbk",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "Sham",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5128505
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 1588845
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4612513
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3765142
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1793422
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3642792
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3180896
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 155438
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1233793
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3033108
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1447689
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3678648
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4086626
+        }
+      ],
       "Current": false,
-      "Date": "2025-07-04T15:00:00+00:00",
+      "Date": "2025-07-05T17:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2877,6 +3009,7 @@
     },
     {
       "ID": 66,
+      "Team1Acronym": "lyst",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2889,6 +3022,7 @@
         "X": 1000,
         "Y": 3850
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -2910,6 +3044,7 @@
     {
       "ID": 90,
       "Team1Score": null,
+      "Team2Acronym": "Sham",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2941,6 +3076,7 @@
     },
     {
       "ID": 64,
+      "Team1Acronym": "Plas",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2953,6 +3089,7 @@
         "X": 1200,
         "Y": 3820
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
