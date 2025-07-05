@@ -1540,7 +1540,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-05T17:00:00+01:00",
+      "Date": "2025-07-06T17:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1620,7 +1620,7 @@
         }
       ],
       "Current": false,
-      "Date": "2025-07-03T19:00:00+00:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1638,7 +1638,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-06T21:00:00+01:00",
+      "Date": "2025-07-06T13:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -1723,7 +1723,7 @@
         }
       ],
       "Current": false,
-      "Date": "2025-07-04T15:00:00+00:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 640,
@@ -2784,7 +2784,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-04T15:00:00+00:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2795,31 +2795,172 @@
     {
       "ID": 74,
       "Team1Acronym": "velc",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Fros",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3180896
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3765142
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3678648
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 1447689
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5128505
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 155438
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1588845
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4612513
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3033108
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3642792
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2348869
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5135368
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3828589
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4759466
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4490753
+        }
+      ],
+      "Current": true,
       "Date": "2025-07-05T21:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
         "Y": 4150
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 50,
       "Team1Acronym": "Dr S",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Umar",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5128505
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4612513
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3180896
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3678648
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1233793
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3828589
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4457389
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 155438
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1793422
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3033108
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5135368
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3765142
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4086626
+        }
+      ],
       "Current": false,
       "Date": "2025-07-05T17:00:00+01:00",
       "ConditionalMatches": [],
@@ -2827,37 +2968,152 @@
         "X": 800,
         "Y": 3350
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 56,
       "Team1Acronym": "NeoP",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "[Ava",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4612513
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 1233793
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4086626
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5128505
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3033108
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3678648
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1588845
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3180896
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4759466
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5135368
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3765142
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1793422
+        }
+      ],
       "Current": false,
-      "Date": "2025-07-05T16:00:00+01:00",
+      "Date": "2025-07-05T20:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
         "Y": 3550
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 69,
       "Team1Acronym": "chee",
-      "Team1Score": null,
+      "Team1Score": 1,
       "Team2Acronym": "Fwuf",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5128505
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4612513
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3180896
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3765142
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1233793
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3642792
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1588845
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3828589
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5135368
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3678648
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4086626
+        }
+      ],
       "Current": false,
       "Date": "2025-07-05T18:00:00+01:00",
       "ConditionalMatches": [],
@@ -2871,13 +3127,89 @@
     {
       "ID": 80,
       "Team1Acronym": "faki",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "bad ",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4612513
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5128505
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3033108
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3180896
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1588845
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 155438
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4086626
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3828589
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1793422
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3678648
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5135368
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1233793
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4457389
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3642792
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4490753
+        }
+      ],
+      "Current": false,
       "Date": "2025-07-05T14:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2982,7 +3314,7 @@
         }
       ],
       "Current": false,
-      "Date": "2025-07-05T17:00:00+00:00",
+      "Date": "2025-07-05T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
@@ -2993,7 +3325,9 @@
     },
     {
       "ID": 54,
+      "Team1Acronym": "Dr S",
       "Team1Score": null,
+      "Team2Acronym": "NeoP",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3005,12 +3339,14 @@
         "X": 1000,
         "Y": 3450
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 66,
       "Team1Acronym": "lyst",
       "Team1Score": null,
+      "Team2Acronym": "Fwuf",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3027,7 +3363,9 @@
     },
     {
       "ID": 78,
+      "Team1Acronym": "velc",
       "Team1Score": null,
+      "Team2Acronym": "bad ",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3039,6 +3377,7 @@
         "X": 1000,
         "Y": 4250
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
