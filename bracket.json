@@ -1733,12 +1733,78 @@
     {
       "ID": 12,
       "Team1Acronym": "Bubb",
-      "Team1Score": 0,
+      "Team1Score": 6,
       "Team2Acronym": "skia",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4467498
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3890692
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 244488
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2788974
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 281632
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1509637
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3783720
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4972947
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4520071
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 712015
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 39076
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4290249
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3432909
+        }
+      ],
       "Current": false,
       "Date": "2025-07-10T19:00:00+00:00",
       "ConditionalMatches": [],
@@ -1746,7 +1812,6 @@
         "X": 960,
         "Y": 750
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -1770,6 +1835,7 @@
     },
     {
       "ID": 25,
+      "Team1Acronym": "Bubb",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1782,6 +1848,7 @@
         "X": 1454,
         "Y": 1641
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
@@ -3541,7 +3608,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-12T13:30:00+00:00",
+      "Date": "2025-07-12T14:30:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1200,
@@ -3560,7 +3627,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-12T18:00:00+00:00",
+      "Date": "2025-07-12T19:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1200,
@@ -3579,7 +3646,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-12T16:00:00+00:00",
+      "Date": "2025-07-12T17:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1200,
@@ -3598,7 +3665,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-12T15:00:00+00:00",
+      "Date": "2025-07-12T16:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1200,
@@ -3615,7 +3682,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-13T15:00:00+00:00",
+      "Date": "2025-07-13T16:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1490,
@@ -3631,7 +3698,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-13T17:00:00+00:00",
+      "Date": "2025-07-13T18:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1490,
@@ -3641,6 +3708,7 @@
     },
     {
       "ID": 58,
+      "Team1Acronym": "skia",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -3653,6 +3721,7 @@
         "X": 1690,
         "Y": 3610
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
