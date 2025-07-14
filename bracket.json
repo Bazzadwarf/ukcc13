@@ -1806,7 +1806,7 @@
         }
       ],
       "Current": false,
-      "Date": "2025-07-10T15:00:00+00:00",
+      "Date": "2025-07-12T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 960,
@@ -1817,12 +1817,78 @@
     {
       "ID": 37,
       "Team1Acronym": "rudj",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "syno",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4520071
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3890692
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 244488
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 1778268
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 712015
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 39076
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4844095
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4290249
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4972947
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 281632
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1509637
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4467498
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 460360
+        }
+      ],
       "Current": false,
       "Date": "2025-07-14T16:00:00+01:00",
       "ConditionalMatches": [],
@@ -1830,18 +1896,18 @@
         "X": 960,
         "Y": 2350
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 25,
       "Team1Acronym": "Bubb",
       "Team1Score": null,
+      "Team2Acronym": "rudj",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2025-07-19T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3893,7 +3959,7 @@
         }
       ],
       "Current": false,
-      "Date": "2025-07-13T19:00:00+00:00",
+      "Date": "2025-07-13T20:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1490,
@@ -3922,19 +3988,21 @@
     },
     {
       "ID": 82,
+      "Team1Acronym": "syno",
       "Team1Score": null,
       "Team2Acronym": "maTT",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2025-07-19T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1690,
         "Y": 4400
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
@@ -43785,7 +43853,7 @@
       ]
     },
     {
-      "FullName": "rudj",
+      "FullName": "fudge",
       "FlagName": "GB",
       "Acronym": "rudj",
       "SeedingResults": [
