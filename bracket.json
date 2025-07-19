@@ -1908,7 +1908,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": true,
-      "Date": "2025-07-19T01:00:00+01:00",
+      "Date": "2025-07-20T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1454,
@@ -3977,7 +3977,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-19T01:00:00+01:00",
+      "Date": "2025-07-20T23:59:59+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1690,
@@ -3989,31 +3989,102 @@
     {
       "ID": 82,
       "Team1Acronym": "syno",
-      "Team1Score": null,
+      "Team1Score": 7,
       "Team2Acronym": "maTT",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2496646
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3807026
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2231816
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4885057
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2494819
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1979409
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4828570
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4613136
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4393036
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1967198
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 368261
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4433609
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4103881
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4864380
+        }
+      ],
       "Current": false,
-      "Date": "2025-07-19T01:00:00+01:00",
+      "Date": "2025-07-19T19:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1690,
         "Y": 4400
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 70,
       "Team1Score": null,
+      "Team2Acronym": "syno",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-07-19T01:00:00+01:00",
+      "Date": "2025-07-21T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2010,
@@ -7047,7 +7118,806 @@
       "Description": "",
       "BestOf": 13,
       "BanCount": 2,
-      "Beatmaps": [],
+      "Beatmaps": [
+        {
+          "ID": 4384637,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 4384637,
+            "DifficultyName": "tourney ver.",
+            "BPM": 170.0,
+            "Length": 191000.0,
+            "StarRating": 7.54,
+            "EndTimeObjectCount": 541,
+            "TotalObjectCount": 1098,
+            "Metadata": {
+              "Title": "Mind Chase",
+              "title_unicode": "Mind Chase",
+              "Artist": "sanmal",
+              "artist_unicode": "sanmal",
+              "Author": {
+                "OnlineID": 6405262,
+                "Username": "Ishtiaq",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "owc2023fnm4 finals roach azrulk",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 3.5,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2091780/covers/cover@2x.jpg?1702994455",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2091780/covers/card@2x.jpg?1702994455",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2091780/covers/list@2x.jpg?1702994455"
+            }
+          }
+        },
+        {
+          "ID": 4103881,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 4103881,
+            "DifficultyName": "Horsace's Favorite Apple",
+            "BPM": 145.0,
+            "Length": 217000.0,
+            "StarRating": 7.44,
+            "EndTimeObjectCount": 446,
+            "TotalObjectCount": 1290,
+            "Metadata": {
+              "Title": "Reincarnation Apple feat. Hatsune Miku",
+              "title_unicode": "転生林檎 feat. 初音ミク",
+              "Artist": "PinocchioP",
+              "artist_unicode": "ピノキオピー",
+              "Author": {
+                "OnlineID": 19884809,
+                "Username": "ajmosca",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "tycani nozuchi alvearia h1dron cytusine imaginative pinop meta vocaloid tensei ringo corsace closed 2023 cc23 qfs quarterfinals nm3 japanese pop jpop ボーカロイド ボカロ fuiba fuyu",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.5,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1976954/covers/cover@2x.jpg?1727724766",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1976954/covers/card@2x.jpg?1727724766",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1976954/covers/list@2x.jpg?1727724766"
+            }
+          }
+        },
+        {
+          "ID": 1979409,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 1979409,
+            "DifficultyName": "Ultimate Revolution",
+            "BPM": 217.0,
+            "Length": 261000.0,
+            "StarRating": 7.82,
+            "EndTimeObjectCount": 406,
+            "TotalObjectCount": 1279,
+            "Metadata": {
+              "Title": "Fist Bump",
+              "title_unicode": "Fist Bump",
+              "Artist": "Douglas Robb (Hoobastank)",
+              "artist_unicode": "Douglas Robb (Hoobastank)",
+              "Author": {
+                "OnlineID": 11308433,
+                "Username": "Xandit",
+                "CountryString": "Unknown"
+              },
+              "Source": "ソニックフォース",
+              "tags": "sonic forces vocal traxx on the edge a hero will rise original soundtrack main theme hedgehog wave master entertainment tomoya ohtani takahito eguchi sega microsoft sony nintendo xbox one xone playstation 4 ps4 nintendo switch ns pc join resistance 25th anniversary",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 9.5,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/859767/covers/cover@2x.jpg?1598376613",
+              "card@2x": "https://assets.ppy.sh/beatmaps/859767/covers/card@2x.jpg?1598376613",
+              "list@2x": "https://assets.ppy.sh/beatmaps/859767/covers/list@2x.jpg?1598376613"
+            }
+          }
+        },
+        {
+          "ID": 4393036,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 4393036,
+            "DifficultyName": "Burn Out",
+            "BPM": 175.0,
+            "Length": 166000.0,
+            "StarRating": 7.42,
+            "EndTimeObjectCount": 372,
+            "TotalObjectCount": 1412,
+            "Metadata": {
+              "Title": "Burning Star",
+              "title_unicode": "Burning Star",
+              "Artist": "LV.4",
+              "artist_unicode": "LV.4",
+              "Author": {
+                "OnlineID": 53378,
+                "Username": "ktgster",
+                "CountryString": "Unknown"
+              },
+              "Source": "osu! World Cup 2023",
+              "tags": "electronic instrumental owc2023gfhr3 hr grand finals fa featured artist wispy squirrelpascals ioexception cytusine nytrocide_ nytro ganyumymommy dada chemo serenhaide",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.6,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2095154/covers/cover@2x.jpg?1715648464",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2095154/covers/card@2x.jpg?1715648464",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2095154/covers/list@2x.jpg?1715648464"
+            }
+          }
+        },
+        {
+          "ID": 4828570,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 4828570,
+            "DifficultyName": "Lunatic Gaze \"Illusion Seeker\"",
+            "BPM": 200.0,
+            "Length": 139000.0,
+            "StarRating": 7.27,
+            "EndTimeObjectCount": 85,
+            "TotalObjectCount": 828,
+            "Metadata": {
+              "Title": "Lunatic Eyes ~ Invisible Full Moon",
+              "title_unicode": "Lunatic Eyes ~ Invisible Full Moon",
+              "Artist": "beatMARIO",
+              "artist_unicode": "beatMARIO",
+              "Author": {
+                "OnlineID": 6399568,
+                "Username": "YokesPai",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方深秘録　～ Urban Legend in Limbo",
+              "tags": "touhou shinpiroku ulil 鈴仙 優曇華院 イナバ reisen undongein inaba 東方永夜抄 imperishable night 東方project 8 stage 5 electronic instrumental cool&create doujin circle",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.2,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.4,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2267484/covers/cover@2x.jpg?1734888619",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2267484/covers/card@2x.jpg?1734888619",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2267484/covers/list@2x.jpg?1734888619"
+            }
+          }
+        },
+        {
+          "ID": 4433609,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 4433609,
+            "DifficultyName": "yf's Sonata Movements",
+            "BPM": 132.0,
+            "Length": 130000.0,
+            "StarRating": 7.48,
+            "EndTimeObjectCount": 283,
+            "TotalObjectCount": 627,
+            "Metadata": {
+              "Title": "Random",
+              "title_unicode": "Random",
+              "Artist": "Sobrem x Silentroom",
+              "artist_unicode": "Sobrem × Silentroom",
+              "Author": {
+                "OnlineID": 10562853,
+                "Username": "seros",
+                "CountryString": "Unknown"
+              },
+              "Source": "BOFXVII",
+              "tags": "featured artist sobrem silentroom the bms of fighters xvii -vision retro future- following the clue [clue] harkiadel english electronic instrumental jazz funk fusion piano video game ak74 revoh dahkjdas kowari callionet intensity hakurei yoru hakurei_yoru zengsb pigeons arsalan yf yf_bmp mappers' guild mpg mg fa",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 3.8,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.6,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1674155/covers/cover@2x.jpg?1713108871",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1674155/covers/card@2x.jpg?1713108871",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1674155/covers/list@2x.jpg?1713108871"
+            }
+          }
+        },
+        {
+          "ID": 2494819,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 2494819,
+            "DifficultyName": "1.2x Scale",
+            "BPM": 140.0,
+            "Length": 138000.0,
+            "StarRating": 6.6,
+            "EndTimeObjectCount": 104,
+            "TotalObjectCount": 884,
+            "Metadata": {
+              "Title": "S.Y.S.T.E.M",
+              "title_unicode": "S.Y.S.T.E.M",
+              "Artist": "SHK",
+              "artist_unicode": "SHK",
+              "Author": {
+                "OnlineID": 53378,
+                "Username": "ktgster",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "bms fruits trance system soundholick electronic instrumental",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1197740/covers/cover@2x.jpg?1662321080",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1197740/covers/card@2x.jpg?1662321080",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1197740/covers/list@2x.jpg?1662321080"
+            }
+          }
+        },
+        {
+          "ID": 1182462,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 1182462,
+            "DifficultyName": "unhinged",
+            "BPM": 174.0,
+            "Length": 114000.0,
+            "StarRating": 7.62,
+            "EndTimeObjectCount": 226,
+            "TotalObjectCount": 813,
+            "Metadata": {
+              "Title": "polygon",
+              "title_unicode": "polygon",
+              "Artist": "Sota Fujimori",
+              "artist_unicode": "Sota Fujimori",
+              "Author": {
+                "OnlineID": 2596942,
+                "Username": "Kaifin",
+                "CountryString": "Unknown"
+              },
+              "Source": "jubeat copious",
+              "tags": "reflec beat colette autumn fanzhen0019 bonzi revurii xlolicore-",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.5,
+              "ApproachRate": 9.7,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/559097/covers/cover@2x.jpg?1650647940",
+              "card@2x": "https://assets.ppy.sh/beatmaps/559097/covers/card@2x.jpg?1650647940",
+              "list@2x": "https://assets.ppy.sh/beatmaps/559097/covers/list@2x.jpg?1650647940"
+            }
+          }
+        },
+        {
+          "ID": 2855075,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 2855075,
+            "DifficultyName": "Enantiomorphs",
+            "BPM": 200.0,
+            "Length": 133000.0,
+            "StarRating": 7.67,
+            "EndTimeObjectCount": 328,
+            "TotalObjectCount": 883,
+            "Metadata": {
+              "Title": "Symmetric",
+              "title_unicode": "Symmetric",
+              "Artist": "ISOMERZ (DJ Raisei + seatrus)",
+              "artist_unicode": "ISOMERZ (DJ Raisei + seatrus)",
+              "Author": {
+                "OnlineID": 918297,
+                "Username": "Realazy",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "ayyri eiri- bouyaaa captin1 toybot vikala ishtiaq sing amateurre dailycare 200step j-core hardcore psystyle electronic instrumental fa featured artist",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.2,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1381824/covers/cover@2x.jpg?1633531259",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1381824/covers/card@2x.jpg?1633531259",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1381824/covers/list@2x.jpg?1633531259"
+            }
+          }
+        },
+        {
+          "ID": 2496646,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 2496646,
+            "DifficultyName": "Agony",
+            "BPM": 250.0,
+            "Length": 306000.0,
+            "StarRating": 8.01,
+            "EndTimeObjectCount": 175,
+            "TotalObjectCount": 2841,
+            "Metadata": {
+              "Title": "The Deceit",
+              "title_unicode": "The Deceit",
+              "Artist": "Fleshgod Apocalypse",
+              "artist_unicode": "Fleshgod Apocalypse",
+              "Author": {
+                "OnlineID": 2942381,
+                "Username": "Mazzerin",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "agony extreme technical death metal rsi deathstream pishifat english latin marathon",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 3.0,
+              "OverallDifficulty": 10.0,
+              "ApproachRate": 10.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/991300/covers/cover@2x.jpg?1650697708",
+              "card@2x": "https://assets.ppy.sh/beatmaps/991300/covers/card@2x.jpg?1650697708",
+              "list@2x": "https://assets.ppy.sh/beatmaps/991300/covers/list@2x.jpg?1650697708"
+            }
+          }
+        },
+        {
+          "ID": 4613136,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 4613136,
+            "DifficultyName": "Joget Maut Scub dan Shurelia",
+            "BPM": 202.0,
+            "Length": 217000.0,
+            "StarRating": 7.34,
+            "EndTimeObjectCount": 275,
+            "TotalObjectCount": 883,
+            "Metadata": {
+              "Title": "Metal vs Dugem",
+              "title_unicode": "Metal vs Dugem",
+              "Artist": "Project Pop",
+              "artist_unicode": "Project Pop",
+              "Author": {
+                "OnlineID": 3807986,
+                "Username": "Shurelia",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "indonesia indonesian metal pop electronic dance edm anime girl anime_girl jungkyuyoung natsume shiki natsume_shiki scub domino scubdomino [keqing] 8972308 kuro fuyusaki nakazawa arutama soncak lit120 -hakurei- hinsvar frozz -keqing -keitaro",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2183079/covers/cover@2x.jpg?1719649009",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2183079/covers/card@2x.jpg?1719649009",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2183079/covers/list@2x.jpg?1719649009"
+            }
+          }
+        },
+        {
+          "ID": 1967198,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 1967198,
+            "DifficultyName": ":)",
+            "BPM": 128.0,
+            "Length": 195000.0,
+            "StarRating": 6.82,
+            "EndTimeObjectCount": 318,
+            "TotalObjectCount": 1080,
+            "Metadata": {
+              "Title": "Indoor Kei Nara Trackmaker",
+              "title_unicode": "インドア系ならトラックメイカー",
+              "Artist": "Yunomi & nicamoq",
+              "artist_unicode": "Yunomi & nicamoq",
+              "Author": {
+                "OnlineID": 53378,
+                "Username": "ktgster",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.3,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/942107/covers/cover@2x.jpg?1552875412",
+              "card@2x": "https://assets.ppy.sh/beatmaps/942107/covers/card@2x.jpg?1552875412",
+              "list@2x": "https://assets.ppy.sh/beatmaps/942107/covers/list@2x.jpg?1552875412"
+            }
+          }
+        },
+        {
+          "ID": 4864380,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 4864380,
+            "DifficultyName": "The Trip",
+            "BPM": 184.0,
+            "Length": 180000.0,
+            "StarRating": 6.68,
+            "EndTimeObjectCount": 253,
+            "TotalObjectCount": 984,
+            "Metadata": {
+              "Title": "Cell",
+              "title_unicode": "Cell",
+              "Artist": "Coaltar of the Deepers",
+              "artist_unicode": "Coaltar of the Deepers",
+              "Author": {
+                "OnlineID": 2155578,
+                "Username": "Azer",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "owc2024 sf fm2 semifinals osu world cup the breastroke cat e.p.1 narasaki",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 5.5,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 8.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2281525/covers/cover@2x.jpg?1734298270",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2281525/covers/card@2x.jpg?1734298270",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2281525/covers/list@2x.jpg?1734298270"
+            }
+          }
+        },
+        {
+          "ID": 3807026,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 3807026,
+            "DifficultyName": "Ultra",
+            "BPM": 210.0,
+            "Length": 164000.0,
+            "StarRating": 7.74,
+            "EndTimeObjectCount": 183,
+            "TotalObjectCount": 1501,
+            "Metadata": {
+              "Title": "SigmaGlider",
+              "title_unicode": "SigmaGlider",
+              "Artist": "Doomsday",
+              "artist_unicode": "Doomsday",
+              "Author": {
+                "OnlineID": 18983,
+                "Username": "Doomsday",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 4.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.4,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1852787/covers/cover@2x.jpg?1671582625",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1852787/covers/card@2x.jpg?1671582625",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1852787/covers/list@2x.jpg?1671582625"
+            }
+          }
+        },
+        {
+          "ID": 368261,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 368261,
+            "DifficultyName": "Yoeri's Insane",
+            "BPM": 175.0,
+            "Length": 122000.0,
+            "StarRating": 5.46,
+            "EndTimeObjectCount": 146,
+            "TotalObjectCount": 719,
+            "Metadata": {
+              "Title": "China Dress",
+              "title_unicode": "China Dress",
+              "Artist": "Memme",
+              "artist_unicode": "Memme",
+              "Author": {
+                "OnlineID": 1340650,
+                "Username": "Tear",
+                "CountryString": "Unknown"
+              },
+              "Source": "O2Jam U",
+              "tags": "shiro yoeri zexous odaril cheesiest priti oriental core",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/137665/covers/cover@2x.jpg?1650623043",
+              "card@2x": "https://assets.ppy.sh/beatmaps/137665/covers/card@2x.jpg?1650623043",
+              "list@2x": "https://assets.ppy.sh/beatmaps/137665/covers/list@2x.jpg?1650623043"
+            }
+          }
+        },
+        {
+          "ID": 2231816,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 2231816,
+            "DifficultyName": "uragirarete",
+            "BPM": 170.0,
+            "Length": 252000.0,
+            "StarRating": 5.16,
+            "EndTimeObjectCount": 217,
+            "TotalObjectCount": 993,
+            "Metadata": {
+              "Title": "faithlessness",
+              "title_unicode": "faithlessness",
+              "Artist": "Maison book girl",
+              "artist_unicode": "Maison book girl",
+              "Author": {
+                "OnlineID": 5875419,
+                "Username": "newton-",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "stixy shizuku- kazato_asa deppyforce nekroman4ik image 矢川 葵 yagawa aoi コショージ メグミ koshouji koshoji coshoji coshouji megumi 井上 唯 inoue yui 和田 輪 wada rin tokumajapan japanese pop jpop idol",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 6.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1063163/covers/cover@2x.jpg?1650688496",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1063163/covers/card@2x.jpg?1650688496",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1063163/covers/list@2x.jpg?1650688496"
+            }
+          }
+        },
+        {
+          "ID": 4885057,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 4885057,
+            "DifficultyName": "Yokes' Lunatic",
+            "BPM": 154.0,
+            "Length": 170000.0,
+            "StarRating": 5.74,
+            "EndTimeObjectCount": 135,
+            "TotalObjectCount": 843,
+            "Metadata": {
+              "Title": "Fuujin Shoujo (Short Ver.)",
+              "title_unicode": "風神少女 (Short Ver.)",
+              "Artist": "ZUN",
+              "artist_unicode": "ZUN",
+              "Author": {
+                "OnlineID": 3807986,
+                "Username": "Shurelia",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方花映塚　〜 Phantasmagoria of Flower View.",
+              "tags": "上海アリス幻樂団 team shanghai alice pofv touhou th 9 wind god girl aya shameimaru 射命丸文 tengu cc5 conyoh cup 5 fm2 div 2 d2 f final trumpet video game instrumental arsalan pigeons sstari nik nikolomara yokespai",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2261278/covers/cover@2x.jpg?1737152548",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2261278/covers/card@2x.jpg?1737152548",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2261278/covers/list@2x.jpg?1737152548"
+            }
+          }
+        },
+        {
+          "ID": 2819332,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 2819332,
+            "DifficultyName": "Extra",
+            "BPM": 200.0,
+            "Length": 242000.0,
+            "StarRating": 5.6,
+            "EndTimeObjectCount": 407,
+            "TotalObjectCount": 945,
+            "Metadata": {
+              "Title": "Hyadain's Jojo Yujo",
+              "title_unicode": "ヒャダインのじょーじょーゆーじょー",
+              "Artist": "Inugami Korone & Nekomata Okayu",
+              "artist_unicode": "戌神ころね&猫又おかゆ",
+              "Author": {
+                "OnlineID": 6644401,
+                "Username": "Yuuma",
+                "CountryString": "Unknown"
+              },
+              "Source": "日常",
+              "tags": "xidorn yasaija 714 captain amateurre nichijou hyadain no joujou yuujou japanese anime op opening hololive gamers ホロライブゲーマーズ ホロライブ vtuber virtual youtuber cover okakoro my ordinary life pop j-pop jpop おかころ",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.5,
+              "CircleSize": 3.6,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.2,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1279298/covers/cover@2x.jpg?1626001310",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1279298/covers/card@2x.jpg?1626001310",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1279298/covers/list@2x.jpg?1626001310"
+            }
+          }
+        },
+        {
+          "ID": 4278011,
+          "Mods": "",
+          "BeatmapInfo": {
+            "OnlineID": 4278011,
+            "DifficultyName": "Celestial Voyage",
+            "BPM": 210.0,
+            "Length": 406000.0,
+            "StarRating": 7.97,
+            "EndTimeObjectCount": 815,
+            "TotalObjectCount": 2451,
+            "Metadata": {
+              "Title": "Beyond the Millennium",
+              "title_unicode": "Beyond the Millennium",
+              "Artist": "HAGISOPH",
+              "artist_unicode": "HAGISOPH",
+              "Author": {
+                "OnlineID": 6381153,
+                "Username": "Karliah",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方永夜抄　～ Imperishable Night.",
+              "tags": "itswinter silence player jazzberry jaune iamtickrate venerablenyanta そいそい asomosphere ヴォヤージュ eternal dream　～ 幽玄の槭樹 mystical maple 上海アリス幻樂団 th8 freez team shanghai alice bwc badly wood cup barrier grand finals gf tb tie breaker full flavor touhou 千年幻想郷　～ history of the moon voyage 1969 artcore breakcore metal riddim hardcore neurofunk crossbreed hardstyle hard dance schranz hi-tech fullon psytrance dnb drum n bass drum'n'bass speedcore piano eirin yagokoro jakko jakushu ~ the truth of the cessation of dukkha 八意 永琳 zun 東方project project sennen gensokyo japanese video game genrakudan",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 9.5,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2048946/covers/cover@2x.jpg?1711293718",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2048946/covers/card@2x.jpg?1711293718",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2048946/covers/list@2x.jpg?1711293718"
+            }
+          }
+        }
+      ],
       "StartDate": "2025-07-19T01:00:00+01:00",
       "Matches": [
         25,
